@@ -1,0 +1,19 @@
+{
+  "name": "viet_thinh_vuong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "particles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js",
+    "nodemon-index": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.15"
+  }
+}
